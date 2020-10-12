@@ -5,8 +5,8 @@
   "main": "grammar.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "watch:grammar": "nodemon --ext ne --exec 'nearleyc grammar.ne -o output/grammar.js && nearley-railroad grammar.ne -o output/index.html'",
-    "watch:railroad": "lite-server"
+    "watch:grammar": "nodemon --ext ne --exec 'nearleyc src/grammar.ne -o output/grammar.js && nearley-railroad src/grammar.ne -o output/index.html'",
+    "watch:railroad": "lite-server --baseDir='output'"
   },
   "author": "",
   "license": "ISC",
