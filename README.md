@@ -1,6 +1,6 @@
 # Regex Grammar & Parser
 
-Regex parser made with nearly.js
+Regex parser made with nearley.js
 
 ### Development
 
