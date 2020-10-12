@@ -22,3 +22,4 @@ Open the localhost url shown while running the railroad script
 
 - [Writting a Parser](https://nearley.js.org/docs/grammar)
 - [Nearley Online Playground](https://omrelli.ug/nearley-playground/)
+- [Regex Cheatsheet](https://www.rexegg.com/regex-quickstart.html#chars)
