@@ -2,7 +2,7 @@
 
 Regex parser made with nearly.js
 
-# Development
+### Development
 
 ```bash
 npm install
